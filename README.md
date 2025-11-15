@@ -20,6 +20,6 @@ Tools Used
 - **Data Segmentation** by year, product, country, and segment
 
 File Information
-- `Financial Data Analysis Dashboard Excel.png` — Screenshot of the interactive Excel dashboard.
+- 'Financial Data Analysis Dashboard.png` — Screenshot of the interactive Excel dashboard.
 
 This dashboard demonstrates financial analysis and visualization skills using Excel and provides an accessible summary of key business metrics for decision-making.
